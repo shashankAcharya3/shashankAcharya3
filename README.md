@@ -18,8 +18,6 @@
 - **Part-time Researcher** with a strong focus on **Deep Learning**, **Signal Processing**, and **Physics-Informed Models**. 
 - Currently generalizing across **Computer Science**, while specializing heavily in **AI/ML**, **Data Science**, and **Backend Development**.
 - **Deep Dives:** Fascinated by the mathematical foundations of architectures like Transformers, LSTMs, RNNs, and Mamba blocks. I prefer a first-principles, ground-up approach to building AI.
-- **Next Up:** Joining NatWest for a summer internship in June 2026. 
-
 ---
 
 ## Tech Stack & Skills
